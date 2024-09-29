@@ -22,4 +22,4 @@ The Hand Gesture Recognition System is an advanced software application that all
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](https://github.com/your-repo/LICENSE) file for more details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](https://github.com/MehulKhanna/Hand-Gesture-Recognition/LICENSE) file for more details.
